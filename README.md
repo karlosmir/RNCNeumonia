@@ -1,2 +1,2 @@
 # RNCNeumonia
-Deep Learning, RNC,  Tkinter
+Deep Learning, RNC, Python, TensorFlow, Tkinter
